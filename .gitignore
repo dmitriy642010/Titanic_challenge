@@ -1,0 +1,8 @@
+venv/
+survived/
+notsurvived/
+.venv/
+.idea/
+*.iml
+*.pyc
+*.log
